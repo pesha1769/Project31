@@ -1,2 +1,8 @@
 # Project31
-The histogram of directional gradients in the problem of detecting objects using neural networks
+The histogram of oriented gradients (HOG) in the problem of detecting objects using convolutional neural networks (CNN).
+
+## ToDo:
+  * CNN_HOG.ipynb implementation in google colab 
+  * CNN_HOG.ipynb adding HOG layer
+  * keras-to-cpp
+  * try to use INRIA dataset annotations 
