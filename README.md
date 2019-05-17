@@ -6,8 +6,8 @@ The histogram of oriented gradients (HOG) in the problem of detecting objects us
   * ~~CNN_HOG.ipynb implementation in google colab~~
   * ~~CNN_HOG.ipynb adding HOG layer~~
   * ~~model tuning for better detection~~
-  * try to use INRIA dataset annotations [https://github.com/rupy/HumanDetection]
+  * ?INRIA dataset annotations [https://github.com/rupy/HumanDetection]
   * ~~DET-graphs FAR/FRR~~
-  * keras-to-cpp [https://github.com/pplonski/keras2cpp]
+  * ?keras-to-cpp [https://github.com/pplonski/keras2cpp]
   
 
