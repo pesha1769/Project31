@@ -7,7 +7,7 @@ The histogram of oriented gradients (HOG) in the problem of detecting objects us
   * ~~CNN_HOG.ipynb adding HOG layer~~
   * ~~model tuning for better detection~~
   * ?try to use INRIA dataset annotations 
-  * ?DET-graphs FAR/FRR
+  * ~~DET-graphs FAR/FRR~~
   * ?keras-to-cpp [https://github.com/pplonski/keras2cpp]
   
 
